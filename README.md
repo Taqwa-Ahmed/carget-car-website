@@ -9,7 +9,8 @@ CarGET is a clean, modern front-end website designed for a car dealership platfo
 ## 📺 Project Demo Video
 Watch the website walkthrough here:
 
-![Project Demo](Project-REC.mp4)
+
+
 
 ---
 
